@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+width:375px;
+height:812px;
+background-color: #5D5D7D;
+}
+
+h1 {
+margin: 58px 53px 0 54px;
+font-weight: 400;
+font-size: 36px;
+line-height: 52px;
+text-align: center;
+color: #5D5D7D;
+
+}
+
+p {
+margin: 15px 53px 15px 54px;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+text-align: center;
+color: #5D5D7D;
+mix-blend-mode: normal;
+opacity: 0.6;
+}
+ 
+button {
+margin:0 53px 0 54px ;
+border-radius: 30px;
+border:none;
+cursor: pointer;
+}
+
